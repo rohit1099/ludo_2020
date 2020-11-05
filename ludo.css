@@ -34,7 +34,7 @@ body{
 	height: 28px;
 	width: 44.5px;
 	float: left;
-	background-color: red;
+	background-color: #90caf9;
 	border: 1px solid;
 }
 .box2{
@@ -65,11 +65,15 @@ body{
 	background-color: #00e676;
 }
 .home{
-	height: 140px;
-	width: 140px;
+	height: 0px;
+	width: 0px;
+	border-top:70px solid #90caf9;
+	border-bottom:70px solid #ef9a9a;
+	border-left:70px solid #00e676;
+	border-right:70px solid #f4ff81;
 	//border: 1px solid;
 	float: left;
-	background-color: #2BBBAD;
+	//background-color: #2BBBAD;
 }
 .line3{
 	height: 138px;
